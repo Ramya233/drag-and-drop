@@ -1,0 +1,18 @@
+1) The backlog list element is one column that is copied 3 times to create
+  the other columns.
+
+2) Flex-1 is dividing the space between the columns equally
+
+3)Adding one items with a lot of written text in the column and making it scrollable instead
+  of scrolling the page.
+  -> there is a custom scroll property that handels this in the css
+
+  -> You can see the custom scrollbar article.
+
+4)Const of all html element that you want to interact with
+  -> using querySelectorAll for the arrays
+
+5)There are also arrays to store data.
+
+6) There is already some local storage functionality setup
+   
